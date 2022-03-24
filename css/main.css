@@ -1,0 +1,30 @@
+body {
+    background-color: var(--light-grey);
+}
+.content {
+    background-color: var(--dark-blue);
+    max-width: 650px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #4d4d4d;
+  }
+.vertical-align {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Buttons Section */
+.btn-color {
+    color: var(--salmon);
+    border: solid var(--salmon);
+}
+.btn-color:hover {
+    background-color: var(--salmon);
+    border: solid var(--salmon);
+}
+.button:focus {
+    outline:none;
+}

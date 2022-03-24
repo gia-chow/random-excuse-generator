@@ -1,0 +1,12 @@
+:root {
+    /* Colors */
+    --salmon: #EE745C;
+    --dark-blue: #304B6F;
+    --white: #FFFFFF;
+    --light-grey:#FAFAFA;
+    --black: #000000;
+
+    /* Fonts */
+    --header-font: 'League Spartan', sans-serif;
+    --paragraph-font: 'Libre Baskerville', serif;
+}

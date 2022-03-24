@@ -1,0 +1,16 @@
+/* Header */
+.header-1 {
+    font-family: var(--header-font);
+    color: var(--black);
+    text-transform: uppercase;
+}
+
+/* Content */
+.box-text {
+    font-family: var(--paragraph-font);
+    color: var(--white)
+}
+.sub-text {
+    font-family: var(--paragraph-font);
+    color: var(--black);
+}
